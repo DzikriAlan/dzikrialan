@@ -78,19 +78,6 @@ Village Website (**Vue.js** & **JavaScript**).
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DzikriAlan&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DzikriAlan&layout=compact&theme=tokyonight&hide_border=true)
-
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=DzikriAlan&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DzikriAlan&layout=compact&theme=tokyonight&hide_border=true" />
 </div>
-
----
-
-## 🎓 Education
-
-**Vocational High School Degree in Computer and Network Engineering (TKJ)**  
-SMKN 2 Cikarang Barat – Bekasi, Jawa Barat  
-Jun 2020 – Apr 2023
-
----
