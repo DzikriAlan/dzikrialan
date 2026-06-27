@@ -12,7 +12,7 @@ high-performance API integration
 
 ## 💼 Professional Experience
 
-###[PT. Kazee Digital Indonesia](https://kazee.ai/)
+### [PT. Kazee Digital Indonesia](https://kazee.ai/)
 **Frontend Developer** | Dec 2023 - Present
 
 - Designed and implemented scalable frontend architecture using **Vue** and **TypeScript** across **3** distinct products and
@@ -32,7 +32,7 @@ libraries to deliver actionable statistical insights.
 - Collaborated with cross-functional teams to define strict technical requirements and maintained high production
 stability through automated testing.
 
-###[PT. Surya Microsystems]([https://kazee.ai/](https://www.suryamicrosystems.com/))
+### [PT. Surya Microsystems](https://www.suryamicrosystems.com/)
 **Frontend Developer** | Apr 2023 - Dec 2023
 
 - Applied maintainable, component-based frontend approaches across concurrent projects using **Vue.js** and
