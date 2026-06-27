@@ -68,7 +68,7 @@ generation, API testing, and request management directly within the IDE, reducin
 and Zod, reducing boilerplate by 50%, minimizing validation issues, and improving application reliability.
 
 ### Chaplin
-**Chaplin** | June **2026**
+**[Blayer](http://blayer.id/)** | June **2026**  🌐 [Link Project](https://github.com/DzikriAlan/chaplin-backend)
 
 - Designed and implemented scalable full-stack architecture using Next.js, React, TypeScript, Tailwind CSS,
 NestJS, Prisma, and PostgreSQL, enabling consistent, maintainable, and high-performance application
