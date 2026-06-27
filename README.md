@@ -12,7 +12,7 @@ high-performance API integration
 
 ## 💼 Professional Experience
 
-### PT. Kazee Digital Indonesia
+###[PT. Kazee Digital Indonesia](https://kazee.ai/)
 **Frontend Developer** | Dec 2023 - Present
 
 - Designed and implemented scalable frontend architecture using **Vue** and **TypeScript** across **3** distinct products and
@@ -32,7 +32,7 @@ libraries to deliver actionable statistical insights.
 - Collaborated with cross-functional teams to define strict technical requirements and maintained high production
 stability through automated testing.
 
-### PT. Surya Microsystems
+###[PT. Surya Microsystems]([https://kazee.ai/](https://www.suryamicrosystems.com/))
 **Frontend Developer** | Apr 2023 - Dec 2023
 
 - Applied maintainable, component-based frontend approaches across concurrent projects using **Vue.js** and
@@ -51,7 +51,7 @@ Village Website (**Vue.js** & **JavaScript**).
 ## 💼 Projects
 
 ### Blayer
-**[Blayer](https://blayer.id/)** | Mei **2026**  [Link Project](https://marketplace.visualstudio.com/items?itemName=blayerapi.blayer)
+**[Blayer](https://blayer.id/)** | [Link Project](https://marketplace.visualstudio.com/items?itemName=blayerapi.blayer) | Mei **2026**
 
 - Designed and developed an AI-powered full-stack development platform using Next.js 14, React 18,
 TypeScript, Tailwind CSS, Shadcn/UI, Node.js, Prisma, and PostgreSQL, enabling rapid feature delivery
@@ -68,7 +68,7 @@ generation, API testing, and request management directly within the IDE, reducin
 and Zod, reducing boilerplate by 50%, minimizing validation issues, and improving application reliability.
 
 ### Chaplin
-**[Chaplin](https://chaplin-six.vercel.app/)** | June **2026**  [Link Project](https://github.com/DzikriAlan/chaplin-backend)
+**[Chaplin](https://chaplin-six.vercel.app/)** | [Link Project](https://github.com/DzikriAlan/chaplin-backend) | June **2026**
 
 - Designed and implemented scalable full-stack architecture using Next.js, React, TypeScript, Tailwind CSS,
 NestJS, Prisma, and PostgreSQL, enabling consistent, maintainable, and high-performance application
