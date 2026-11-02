@@ -92,44 +92,13 @@ pull requests, and development task distribution.
 
 ---
 
-## 💼 Projects
+## 🎓 Education
 
-### Blayer
-**[Blayer](https://blayer.id/)** | [Link Project](https://marketplace.visualstudio.com/items?itemName=blayerapi.blayer) | Mei **2026**
+**Vocational High School Degree in Computer and Network Engineering (TKJ)**<br>
+SMKN 2 Cikarang Barat – Bekasi, Jawa Barat<br>
+June 2020 – April 2023
 
-- Designed and developed an AI-powered full-stack development platform using Next.js 14, React 18,
-TypeScript, Tailwind CSS, Shadcn/UI, Node.js, Prisma, and PostgreSQL, enabling rapid feature delivery
-while maintaining scalable architecture and type safety.
-- Built an MCP (Model Context Protocol) server with Node.js and TypeScript, integrating seamlessly with
-Claude Desktop and other MCP-compatible clients to automate AI-assisted development workflows.
-- Engineered an AI-driven code generation system powered by the DeepSeek API, reducing manual code
-scaffolding by 60% while automatically enforcing architecture standards through embedded project
-conventions.
-- Developed a native VS Code extension using the VS Code API and TypeScript, integrating MCP-based code
-generation, API testing, and request management directly within the IDE, reducing API client boilerplate by
-70%.
-- Implemented centralized state and data management using TanStack Query, Zustand, React Hook Form,
-and Zod, reducing boilerplate by 50%, minimizing validation issues, and improving application reliability.
-
-### Chaplin
-**[Chaplin](https://chaplin-six.vercel.app/)** | [Link Project](https://github.com/DzikriAlan/chaplin-backend) | June **2026**
-
-- Designed and implemented scalable full-stack architecture using Next.js, React, TypeScript, Tailwind CSS,
-NestJS, Prisma, and PostgreSQL, enabling consistent, maintainable, and high-performance application
-development.
-- Automated AI-powered workflows using DeepSeek, Jina Embeddings, BullMQ, and PostgreSQL, reducing
-development turnaround time by 40% while improving workflow reliability.
-- Improved application performance through Redis caching, asynchronous job processing, and optimized
-database queries, ensuring scalable and reliable API request handling.
-- Engineered real-time and intelligent user experiences with SSE streaming, WebSocket, semantic search,
-and AI embeddings, delivering instant interactions and advanced data retrieval capabilities.
-- Built secure and standardized application infrastructure using JWT, NextAuth.js, Swagger, and centralized
-error handling, simplifying authentication and frontend-backend integration.
-- Optimized frontend scalability with TanStack Query, Zustand, Shadcn/UI, responsive design, and
-TypeScript, reducing boilerplate, accelerating feature delivery, and maintaining UI consistency across
-platforms.
-- Established engineering best practices through ESLint, SonarQube, CI/CD, architecture governance, and
-TypeScript strict mode, improving code quality, deployment consistency, and long-term maintainability.
+---
 
 ## 🧩 Skills
 
